@@ -2,10 +2,10 @@
 
 Meu nome é Alex Souza
 
-- I’m studying at alura;
+- Eu estou estudando na alura;
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos;
-- I love mathematics;
-- My hobbie is playing a football and handball;
-- I think fun read litle prince;
-- I like of help a my friends.
+- EU gosto muito de matemática;
+- Meu hobbie favorito é jogar futebol e handebol;
+- Meu livro preferido é pequeno principe;
+- Eu gosto de ajudar meus amigos.
